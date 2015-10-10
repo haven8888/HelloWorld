@@ -3,6 +3,7 @@ public class helloWorld {
 	int x = 50;
 	System.out.println("hello World!");
 	System.out.println( x + " is the variable x");
+	// changed by pawc
 	}
 }
  
